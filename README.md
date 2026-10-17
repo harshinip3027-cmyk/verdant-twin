@@ -148,3 +148,5 @@ npm run build
 cd backend
 python -m pytest tests/test_ai.py
 ```
+## Team
+Group project by Rohit Chaugle , harshini, Saif,Prapthi.
